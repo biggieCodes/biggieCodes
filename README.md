@@ -1,5 +1,5 @@
 ### Hey There👋
-<h1 align="center" >Hey there :wave:, I'm <a href="https://www.linkedin.com/in/nathaniel-handan-35944b218/" target="_blank">Rabo Abdulsamad Abdullahi</a></h1>
+<h1 align="center" >Hey There :smile:, I'm <a href="https://www.linkedin.com/in/nathaniel-handan-35944b218/" target="_blank">Rabo Abdulsamad Abdullahi</a></h1>
 <!-- <img width="20%" align="right"   src="./passport-crop.png" > -->
 
 <h1 align="center">About Me⚡🧔‍♂️<h1>
