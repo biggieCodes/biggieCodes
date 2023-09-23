@@ -34,7 +34,7 @@ I am a **Photographer** **FrontEnd Developer** **Cybersecurity Analyst** **Solan
     <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /> 
     <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> 
     <img alt="BASH" src="https://img.shields.io/badge/Bash-27338e?style=for-the-badge&logo=Bash&logoColor=white" />
-    <img alt="NodeJs" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+    <img alt="NodeJs" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=NodeJs&logoColor=white" />
     <img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <!--     <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" /> -->
     <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
