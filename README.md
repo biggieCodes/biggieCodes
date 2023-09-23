@@ -18,7 +18,7 @@ I am a **Photographer** **FrontEnd Developer** **Cybersecurity Analyst** **Solan
    
 <b>Languages:</b> HTML, CSS, JavaScript, Reactjs, Nodejs, Git, Github, Python, .
 
-<b>Management:</b>  Leadership, Communication, Critical Thinking, Creativity, Teamwork.
+<b>Management:</b>  Leadership, Communication, Critical Thinking, Creativity, Teamwork, Logical Thinking..
 
 <b>Technologies:</b> Git, RESTAPI, BASH, NPM, Github, VS Code, Netlify, Express, React, Nodejs, Lightroom, Photoshop, MongoDB, MySQL, CaptureOne.
 
