@@ -4,7 +4,7 @@
 
 <h1 align="center">About Me⚡🧔‍♂️<h1>
 
-I am a **Photographer** **FrontEnd Developer** **Cybersecurity Analyst** **Solana and BSV Blockchain Dev** passionate about **solving problems** using **technologies**. With my experiences in the field computing, I believe technology is the solutions to the most of the problems facing humanity. I am proud to be solving problem and **support problem solvers**. 
+I am a **Photographer** **FrontEnd Developer** **Cybersecurity Analyst** **Solana and BSV Blockchain Dev** passionate about **solving problems** using **technologies**. With my experiences in the field programming, I believe technology is the solutions to the most of the problems facing humanity and the world. I am proud to be solving problem and **support problem solvers**. 
 
 
 
