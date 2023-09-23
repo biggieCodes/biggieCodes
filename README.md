@@ -11,7 +11,7 @@ I am a **Photographer** **FrontEnd Developer** **Cybersecurity Analyst** **Solan
 
 <h3 align="center"> Web Developer | Cybersecurity Analyst | Photographer | Community Dev | Solana and BSV Blockchain Dev </h3>
 
-<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=Tinny-Robot&label=Profile%20views&color=6805D3&style=flat" alt="Abdulsamad Rabo" /></p></h3>
+<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=biggieCodes&label=Profile%20views&color=6805D3&style=flat" alt="Abdulsamad Rabo" /></p></h3>
    <div align="center">
 
 <h1>Technical Skills 🛠</h1>
@@ -62,8 +62,8 @@ I am a **Photographer** **FrontEnd Developer** **Cybersecurity Analyst** **Solan
 <table>
   <tr>
    
-<td><img src="https://github-readme-stats.vercel.app/api?username=Tinny-Robot&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Abdulsamad Rabo" />
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tinny-Robot&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Abdulsamad Rabo" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api?username=biggieCodes&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Abdulsamad Rabo" />
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=biggieCodes&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Abdulsamad Rabo" /></td>
   </tr>
 </table>
 
@@ -71,10 +71,10 @@ I am a **Photographer** **FrontEnd Developer** **Cybersecurity Analyst** **Solan
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biggieCodes&theme=dark" alt="Abdulsamad Rabo" /></p>
   </div>
 
- [![Tinny-Robot's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=biggieCodes&theme=xcode)](https://github.com/biggiesCodes)
+ [![biggieCodes's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=biggieCodes&theme=xcode)](https://github.com/biggiesCodes)
    
    
 
-[![GitHub followers](https://img.shields.io/github/followers/Tinny-Robot.svg?style=social&label=Follow)](https://github.com/Tinny-Robot?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/biggieCodes.svg?style=social&label=Follow)](https://github.com/biggieCodes?tab=followers)
 ![](./prof.gif)
 
