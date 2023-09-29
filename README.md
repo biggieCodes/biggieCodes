@@ -11,7 +11,7 @@ I am a **Photographer** **FrontEnd Developer** **Cybersecurity Analyst** **Solan
 
 <h3 align="center"> Web Developer | Cybersecurity Analyst | Photographer | Community Dev | Solana and BSV Blockchain Dev </h3>
 
-<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=biggieCodes&label=Profile%20views&color=6805D3&style=flat" alt="Abdulsamad Rabo" /></p></h3>
+<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=biggieCodes&label=Profile%20views&color=grey&style=flat" alt="Abdulsamad Rabo" /></p></h3>
    <div align="center">
 
 <h1>Technical Skills 🛠</h1>
